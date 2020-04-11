@@ -15,7 +15,7 @@ I want to be able to view my entire employee directory at once<br/>
 So that I have quick access to their information.
 
 ### <a name="Use"></a>Overview
-This app gives the user the ability to view their employees information at a glance. 
+This app gives the user the ability to view their employees information at a glance in a very intuitive format. 
 ![overviewDemo](https://user-images.githubusercontent.com/47798977/76628962-fbb5c880-6513-11ea-880e-1a3c6736b66a.png)
 You can sort the table by clicking the column headers 
 ![sortDemo](https://user-images.githubusercontent.com/47798977/76629024-12f4b600-6514-11ea-911e-637771492d64.png)
