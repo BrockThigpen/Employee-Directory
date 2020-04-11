@@ -10,9 +10,9 @@
 - [License](#license)
 
 ### <a name="User-Story"></a>User Story
-AS A user
-I WANT to be able to view my entire employee directory at once 
-SO THAT I have quick access to their information.
+As a user<Br/>
+I want to be able to view my entire employee directory at once<br/>
+So that I have quick access to their information.
 
 ### <a name="Use"></a>Overview
 This app gives the user the ability to view their employees information at a glance. 
